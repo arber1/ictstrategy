@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoDevCoderSettings">
+    <option name="enableAutoScrollInSketch" value="true" />
+    <option name="enableRenameSuggestion" value="true" />
+    <option name="enableRenderWebview" value="true" />
+    <option name="inEditorCompletion" value="true" />
+  </component>
+</project>
